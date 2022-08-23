@@ -1577,7 +1577,12 @@ header .mega-menu .links li a i {
     min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
+}
+
+@media (max-width: 991px) {
+    .discount {
     padding-bottom: 50px;
+    }
 }
 
 .discount .image {
