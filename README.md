@@ -1,4 +1,4 @@
-# Template3
+# HTML_CSS_Template_3
 This is the third template I did from elzero web school channel on youtube as a training on HTML &amp; CSS 
 
 ## DEMO Link
