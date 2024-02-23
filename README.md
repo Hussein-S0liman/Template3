@@ -1,4 +1,4 @@
-# HTML_CSS_Template_1: Responsive Landing Page Development
+# HTML_CSS_Template_3: Responsive Landing Page Development
 
 ## Project Description:
 
